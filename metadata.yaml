@@ -1,16 +1,21 @@
 _repo: Reflections-on-the-painting-and-sculpture-of-the-Greeks-with-instructions-for-the-connoisseur__61317
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Fusseli, Henry
     gutenberg_agent_id: '51357'
     url: http://www.gutenberg.org/2009/agents/51357
+covers:
+- cover_type: archival
+  image_path: 61317-h/images/cover.jpg
 creator:
   author:
     agent_name: Winckelmann, Johann Joachim
     gutenberg_agent_id: '51356'
     url: http://www.gutenberg.org/2009/agents/51356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61317#Reflections-on-the-painting-and-sculpture-of-the-Greeks-with-instructions-for-the-connoisseur_
 gutenberg_issued: '2020-02-04'
 gutenberg_type: Text
 identifiers:
